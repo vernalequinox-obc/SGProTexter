@@ -1,0 +1,1 @@
+Start "SGProTexter" SGProTexter /i
